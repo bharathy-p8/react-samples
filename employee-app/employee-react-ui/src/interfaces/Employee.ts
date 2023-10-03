@@ -18,4 +18,3 @@ export class Employee implements IEmployee {
         this.emailId = ""; 
     }
 }
- export default Employee
